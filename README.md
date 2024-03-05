@@ -4,6 +4,8 @@
 ## Technologies used 
 - **FastApi**
 - **Celery**
+- **RestApi**
+- **Jwt Authorization**
 - **Peewe ORM**
 - **RabbitMQ**
 - **Swagger Docs**
