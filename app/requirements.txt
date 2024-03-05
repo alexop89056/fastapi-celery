@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+peewee
+PyJWT
+bcrypt
+celery
+requests
+mysqlclient
+redis
+httpx
