@@ -7,7 +7,7 @@ user_router = APIRouter()
 
 
 @user_router.get("/user", tags=['User'])
-def get_user(user: User = Depends(get_current_user)) -> UserDetail:
+async def get_user(user: User = Depends(get_current_user)) -> UserDetail:
     """
        Retrieve user details based on the provided user object and return the user detail.
     """
