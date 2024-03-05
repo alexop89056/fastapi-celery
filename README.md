@@ -11,7 +11,7 @@
 - **Swagger Docs**
 - **MySQL**
 - **UnitTests**
-- **Uvicorn (On Server live preview)**** 
+- **Uvicorn (On Server live preview)**
 - **Nginx (On Server live preview)**
 
 ## Project Architecture
