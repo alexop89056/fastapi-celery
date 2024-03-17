@@ -1,5 +1,5 @@
 # FastApi application with Celery Broker
-### The application includes a loigku to get ip address from external api and save it to database. 
+### The application includes a logic to get ip address from external api and save it to database. 
 
 ## Technologies used 
 - **FastApi**
