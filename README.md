@@ -18,7 +18,7 @@ ______        _    ___  ______ _____           _____      _
 ## Overview 😊
 The application includes a logic to get ip address from external api and save it to database. 
 
-## Technologies used 😎
+## Technologies used 🔧
 - **FastApi**
 - **Celery**
 - **RestApi**
@@ -31,7 +31,7 @@ The application includes a logic to get ip address from external api and save it
 - **Uvicorn (On Server live preview)**
 - **Nginx (On Server live preview)**
 
-## Installation 😍
+## Installation 🚀
 
 To install the project, follow these steps:
 
@@ -48,7 +48,7 @@ To install the project, follow these steps:
     ```bash
     pip install -r app/requirements.txt
 
-## Usage 🚀
+## Usage 📝
 - Start Project with a uvicorn server:
 
    ```bash
