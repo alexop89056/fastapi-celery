@@ -15,10 +15,10 @@ ______        _    ___  ______ _____           _____      _
 
                                                  
 
-## Overview
+## Overview 😊
 The application includes a logic to get ip address from external api and save it to database. 
 
-## Technologies used 
+## Technologies used 😎
 - **FastApi**
 - **Celery**
 - **RestApi**
@@ -31,7 +31,7 @@ The application includes a logic to get ip address from external api and save it
 - **Uvicorn (On Server live preview)**
 - **Nginx (On Server live preview)**
 
-## Installation
+## Installation 😍
 
 To install the project, follow these steps:
 
@@ -48,13 +48,13 @@ To install the project, follow these steps:
     ```bash
     pip install -r app/requirements.txt
 
-## Usage
+## Usage 🚀
 - Start Project with a uvicorn server:
 
    ```bash
    uvicorn app:app
 
-## Project Architecture
+## Project Architecture 🔑
 - **app**: Root folder
   - **auth**: Jwt tokens logic
   - **dependencies**: Main dependencies of api routes
@@ -67,5 +67,5 @@ To install the project, follow these steps:
   - **requirements.txt**: Modules list
 - **unit_test.py**: Py file to run unit tests
 
-## License
+## License 📝
 This project is licensed under the MIT License - see the [main page](https://mit-license.org/) for the details.
